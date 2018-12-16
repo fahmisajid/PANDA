@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PANDA</string>
+    <string name="textview">TextView</string>
+    <string name="nextbtn">NEXT</string>
+    <string name="image">image</string>
+    <string name="todo">TODO</string>
+
+</resources>
